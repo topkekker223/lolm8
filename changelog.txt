@@ -1,0 +1,21 @@
+Support: support [at] agar.io
+Business inquiries: biz [at] agar.io
+
+
+== CHANGELOG ==
+
+FFA Friends:
+
+- Play with your Facebook friends in FFA mode
+- See your Facebook friends in the leaderboard 
+- Added Facebook friends counter in FFA arenas
+- Added Facebook friends profile picture in the leaderboard and player’s cell
+- Added a tracker that points to the closest Facebook friend in FFA mode
+
+
+Party Mode Improvements:
+
+- Improved Party Mode UI
+- Added friends counter inside the arena
+- Added a tracker that points to the closest party member
+- Added Facebook Profile Picture in the leaderboard and player's cell
